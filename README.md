@@ -72,3 +72,16 @@ $ http://localhost:8888
 # License
 [MIT](https://github.com/ElemeFE/cooking/LICENSE)
 
+###项目克隆和仓库更改
+```
+  1、git clone 项目地址
+  2、进入克隆文件夹（可以重命名）
+  3、查看目录
+  4、rm -rf .git 删除该文件 查看是否删除了
+  5、初始化 git init
+  6、git add .
+  7、git commit 
+  8、git remote add 自己仓库地址
+  9、推送
+```
+$ npm run dev 
