@@ -85,3 +85,9 @@ $ http://localhost:8888
   9、推送
 ```
 $ npm run dev 
+
+
+##富文本编辑框组件
+```
+http://www.opendigg.com/p/vue-quill-editor
+```
